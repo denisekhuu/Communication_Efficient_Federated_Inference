@@ -1,0 +1,9 @@
+pytorch 
+torchvision 
+matplotlib
+torchsummary
+python-dotenv
+dash
+scikit-learn
+kaleido
+ucimlrepo
